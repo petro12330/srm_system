@@ -129,4 +129,6 @@ Training
 Blog
 About
 
-idea/
+.idea/
+.DS_Store
+.idea
